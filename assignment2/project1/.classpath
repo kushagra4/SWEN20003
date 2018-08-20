@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/uni/sem 4/object oriented programming/assignment1/Slick Libraries/Slick Libraries/Jar Files/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/uni/sem 4/object oriented programming/assignment1/Slick Libraries/Slick Libraries/Jar Files/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/user/Desktop/uni/sem 4/object oriented programming/assignment1/Slick Libraries/Slick Libraries/Windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/uni/sem 4/object oriented programming/assignment1/Slick Libraries/Slick Libraries/Jar Files/slick.jar" sourcepath="C:/Users/user/Desktop/uni/sem 4/object oriented programming/assignment1/slick (1)/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/user/Desktop/uni/sem%204/object%20oriented%20programming/assignment1/slick%20(1)/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
